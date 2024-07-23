@@ -11,7 +11,7 @@
 
 Notebook: [Image Classifier Project.ipynb](./Image%20Classifier%20Project.ipynb)
 
-note: the checkpoint of this notebook can not be used for train script of part 2, since it has fixed pre-trained model(arch): `vgg16_bn`.
+note: the checkpoint of this notebook can not be used for predict script of part 2, since it has fixed pre-trained model(arch): `vgg16_bn`.
 
 ## Part 2: Command Line Application
 
